@@ -10,11 +10,11 @@ http://www.atzlabs.com/images/molbio-pic1.png
 
 #### I. Métodos de transferencia de genes
 
-#####Transformación por protoplastos
-#####Electroporación
-#####Biobalística
-#####Transformación de células competentes
-#####Conjugación
++ Transformación por protoplastos
++ Electroporación
++ Biobalística
++ Transformación de células competentes
++ Conjugación
 
 
 <img src="http://www.atzlabs.com/images/molbio-pic1.png" width=55%>
